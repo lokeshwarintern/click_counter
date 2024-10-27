@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading-ele {
+  color: #2d3a35;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.span-ele {
+  color: #c20a72;
+}
+
+.btn-ele {
+  color: #ffffff;
+  font-family: Roboto;
+  background-color: #007bff;
+  border-width: 0px;
+  border-radius: 8px;
+  padding: 12px;
+}
